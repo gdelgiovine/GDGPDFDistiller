@@ -8,4 +8,5 @@ e restituisce i files in formato PDF.
 È logicamente strutturato in una libreria con i metodi di conversione ed una Rest-API che espone tali metodi.
 
 Il servizio di conversione HTML è attualmente focalizzato sulla conversione in formato PDF dei reports FastReport Community Edition esportati in HTML.
-La licenza è quella di GhostScript e Itext: AGPL.
+Questo software è rilasciato sotto licenza AGPL/V3 cosi come rischiesto per l'uso di GhostScript e Itext
+https://www.gnu.org/licenses/agpl-3.0.html
