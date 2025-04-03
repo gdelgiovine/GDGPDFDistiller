@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GDGPDFDistiller</name>
+    </assembly>
+    <members>
+        <member name="T:GDGPDFDistiller.Controllers.ConversionController">
+            <summary>
+            Controller per la gestione delle operazioni sui PDF.
+            </summary>
+        </member>
+    </members>
+</doc>

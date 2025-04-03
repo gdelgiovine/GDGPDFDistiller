@@ -1,0 +1,6 @@
+@GDGPDFDistiller_HostAddress = http://localhost:5133
+
+GET {{GDGPDFDistiller_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
